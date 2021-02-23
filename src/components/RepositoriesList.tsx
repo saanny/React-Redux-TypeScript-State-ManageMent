@@ -15,7 +15,6 @@ import {
   AlertTitle,
   AlertDescription,
   CircularProgress,
-  CircularProgressLabel,
 } from "@chakra-ui/react";
 
 export const RepositoriesList: React.FC = () => {
