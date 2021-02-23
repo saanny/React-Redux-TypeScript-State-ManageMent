@@ -1,5 +1,6 @@
 {
   "name": "redux-ts",
+  "author": "Amir Ahmadi <amirahmadidev@gmail.com>",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
