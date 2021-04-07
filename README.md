@@ -1,3 +1,4 @@
+![alt text](https://codersera.com/blog/wp-content/uploads/2020/01/react_redux_typescript.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
